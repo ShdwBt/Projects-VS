@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 namespace ConsoleApplication4
 {
 
+    interface iCalculator
+    {
+        double Add();
+        double Multiply();
+        double Substract();
+        double Divide();
+    }
+
     public class Employee
     {
         //private int m_id;
