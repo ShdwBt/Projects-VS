@@ -1,0 +1,1 @@
+c:\users\pastèque\documents\visual studio 2012\Projects\iCalculator\iCalculator\bin\Debug\iCalculator.exe.config

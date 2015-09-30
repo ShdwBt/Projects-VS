@@ -18,7 +18,7 @@ namespace ConsoleApplication4
 
         ~Employee()
         {
-            Console.WriteLine("Destructeur d'Emplyee");
+            Console.WriteLine("Destructeur d'Employee");
         }
 
         //public Employee(int id)
@@ -37,6 +37,11 @@ namespace ConsoleApplication4
         public Manager() //: base(12) // avec l'id du 2eme constructeur d'Employee
         {
             Console.WriteLine("Constructeur par défaut de Manager");
+        }
+        
+        ~Manager()
+        {
+            Console.WriteLine("Destructeur de Manager");
         }
 
         public new void DoWork() //Redéfinition de la méthode avec le mot clé new
@@ -57,19 +62,26 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Début AppelMethode");
+
+        }
+
+        public static void AppelMethode()
+        {
             Employee emp1 = new Employee();
-            Employee emp2 = new Employee();
+            //Employee emp2 = new Employee();
 
-            Employee myEmployee = new Employee();
-            Manager myManager = myEmployee as Manager;
+            //Employee myEmployee = new Employee();
+            //Manager myManager = myEmployee as Manager;
 
-            emp1.DoWork();
-            emp2.DoWork();
+            //emp1.DoWork();
+            //emp2.DoWork();
 
-            Manager ma1 = new Manager();
-            ma1.DoWork();
+            //Manager ma1 = new Manager();
+            //ma1.DoWork();
             //ManualWorker manu1 = new ManualWorker();
 
+            Console.WriteLine("The END");
             Console.ReadLine();
         }
     }
