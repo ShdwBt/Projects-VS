@@ -1,0 +1,9 @@
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\bin\Debug\Navigateur.exe.config
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.csprojResolveAssemblyReference.cache
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.Form1.resources
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.Properties.Resources.resources
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.csproj.GenerateResource.Cache
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\bin\Debug\Navigateur.exe
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\bin\Debug\Navigateur.pdb
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.exe
+c:\users\pastèque\documents\visual studio 2012\Projects\Navigateur\Navigateur\obj\Debug\Navigateur.pdb

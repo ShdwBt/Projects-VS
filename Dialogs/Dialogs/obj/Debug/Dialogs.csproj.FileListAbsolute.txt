@@ -1,0 +1,9 @@
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.csprojResolveAssemblyReference.cache
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+c:\users\pastèque\documents\visual studio 2012\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
