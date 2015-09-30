@@ -16,6 +16,11 @@ namespace ConsoleApplication4
             Console.WriteLine("Constructeur par défaut d'Employee");
         }
 
+        ~Employee()
+        {
+            Console.WriteLine("Destructeur d'Emplyee");
+        }
+
         //public Employee(int id)
         //{
         //    Console.WriteLine("Constructeur avec paramètre d'Employee");
